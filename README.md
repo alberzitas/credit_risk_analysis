@@ -10,7 +10,7 @@ The following are the results of the imbalanced classification reports for 6 dif
 
 ### Naive Random Oversampling
 
-![](naive.png)
+![](resources/naive.png)
 • Balanced Accuracy: 0.6517620089359456
 • Precision for high-risk loans: 0.01
 • Precision for low-risk loans: 1.00
@@ -19,7 +19,7 @@ The following are the results of the imbalanced classification reports for 6 dif
 
 ### SMOTE Oversampling
 
-![](smote.png)
+![](resources/smote.png)
 • Balanced Accuracy: 0.618433510198984
 • Precision for high-risk loans: 0.01
 • Precision for low-risk loans: 1.00
@@ -28,7 +28,7 @@ The following are the results of the imbalanced classification reports for 6 dif
 
 ### Undersampling
 
-![](undersampling.png)
+![](resources/undersampling.png)
 • Balanced Accuracy: 0.618433510198984
 • Precision for high-risk loans: 0.01
 • Precision for low-risk loans: 1.00
@@ -37,7 +37,7 @@ The following are the results of the imbalanced classification reports for 6 dif
 
 ### Combination
 
-![](combination.png)
+![](resources/combination.png)
 • Balanced Accuracy: 0.6375241226214794
 • Precision for high-risk loans: 0.01
 • Precision for low-risk loans: 1.00
@@ -46,7 +46,7 @@ The following are the results of the imbalanced classification reports for 6 dif
 
 ### Balanced Random Forest Classifier
 
-![](brfc.png)
+![](resources/brfc.png)
 • Balanced Accuracy: 0.7877672625306695
 • Precision for high-risk loans: 0.04
 • Precision for low-risk loans: 1.00
@@ -55,7 +55,7 @@ The following are the results of the imbalanced classification reports for 6 dif
 
 ### Easy Ensemble AdaBoost Classifier
 
-![](eeac.png)
+![](resources/eeac.png)
 • Balanced Accuracy: 0.925427358175101
 • Precision for high-risk loans: 0.07
 • Precision for low-risk loans: 1.00
