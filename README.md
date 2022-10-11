@@ -12,54 +12,82 @@ The following are the results of the imbalanced classification reports for 6 dif
 
 ![](resources/naive.png)
 • Balanced Accuracy: 0.6517620089359456
+
 • Precision for high-risk loans: 0.01
+
 • Precision for low-risk loans: 1.00
+
 • Recall high-risk: 0.63
+
 • Recall low-risk 0.67
 
 ### SMOTE Oversampling
 
 ![](resources/smote.png)
 • Balanced Accuracy: 0.618433510198984
+
 • Precision for high-risk loans: 0.01
+
 • Precision for low-risk loans: 1.00
+
 • Recall high-risk: 0.59
+
 • Recall low-risk 0.65
 
 ### Undersampling
 
 ![](resources/undersampling.png)
+
 • Balanced Accuracy: 0.618433510198984
+
 • Precision for high-risk loans: 0.01
+
 • Precision for low-risk loans: 1.00
+
 • Recall high-risk: 0.61
+
 • Recall low-risk 0.45
 
 ### Combination
 
 ![](resources/combination.png)
+
 • Balanced Accuracy: 0.6375241226214794
+
 • Precision for high-risk loans: 0.01
+
 • Precision for low-risk loans: 1.00
+
 • Recall high-risk: 0.70
+
 • Recall low-risk 0.57
 
 ### Balanced Random Forest Classifier
 
 ![](resources/brfc.png)
+
 • Balanced Accuracy: 0.7877672625306695
+
 • Precision for high-risk loans: 0.04
+
 • Precision for low-risk loans: 1.00
+
 • Recall high-risk: 0.67
+
 • Recall low-risk 0.91
 
 ### Easy Ensemble AdaBoost Classifier
 
 ![](resources/eeac.png)
+
 • Balanced Accuracy: 0.925427358175101
+
 • Precision for high-risk loans: 0.07
+
 • Precision for low-risk loans: 1.00
+
 • Recall high-risk: 0.91
+
 • Recall low-risk 0.94
 
 ## Summary
