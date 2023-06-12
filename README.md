@@ -92,4 +92,4 @@ The following are the results of the imbalanced classification reports for 6 dif
 
 ## Summary
 
-With machine learning, the closer the number is to 1, the more accurate the model is. In this respect, the Easy Ensemble AdaBoost Classifier model was easily the most accurate for both high and low risk, with a score of 0.91 and 0.94 respectively. Out of all the machine learning models, the company should use this one to assess loan risk.
+With machine learning, the closer the number is to 1, the more accurate the model is. With this in mind, the Easy Ensemble AdaBoost Classifier model was easily the most accurate for both high and low risk, with a score of 0.91 and 0.94 respectively. Out of all the machine learning models, the company should use this one to assess loan risk.
